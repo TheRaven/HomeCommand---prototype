@@ -1,0 +1,12 @@
+Rapid prototype to make sure voice recognition was viable.
+<br />
+This prototype accept the different voice commands configured in the grammar files.<br />
+It is able to control an instance of itunes (using the iTunesController library)  
+<ul>
+<li>play/pause</li>
+<li>control volume (up, down, mute)</li>
+<li>say what son by what artist is playing</li>
+</ul>
+<p>
+It is also able to connect to yahoo weather and tell the current temperature as well as the condition (sunny, cloudy etc...)
+</p>
