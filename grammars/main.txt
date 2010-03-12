@@ -1,0 +1,7 @@
+#JSGF V1.0;
+
+grammar com.ravenxq.houseCommand.main;
+
+
+
+public <command> =  house | house? | computer | computer? | thank you;
