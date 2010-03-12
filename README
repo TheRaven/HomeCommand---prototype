@@ -7,7 +7,7 @@ This prototype accept the different voice commands configured in the grammar fil
 It is able to control an instance of itunes (using the iTunesController library)  
 -play/pause
 -control volume (up, down, mute)
--say what son by what artist is playing
+-say what song by what artist is playing
 
 
 It is also able to connect to yahoo weather and tell the current temperature as well as the condition (sunny, cloudy etc...)
